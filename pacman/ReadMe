@@ -1,0 +1,1 @@
+使用记事本打开pacman.vcxproj， 找到第一个CICompiler路径修改为你自己的当前文件路径并保存。使用Visual Studio 打开.sln文件编译运行
